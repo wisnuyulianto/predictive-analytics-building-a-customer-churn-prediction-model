@@ -29,7 +29,7 @@ A complete machine learning pipeline was developed, from data cleaning and EDA t
 |------------------|--------|-----------------------------------------------------|
 | Recall Churn)    | 72%    |Identifies the majority of customers truly at risk   |
 | Overall Accuracy | 79%    |Correctly predicts ~8 out of 10 outcomes             |
-| Precision (Churn)| 55%    |Acceptable trade-off to maximize the detection rate  |
+| Precision (Churn)| 55%    |Acceptable trade off to maximize the detection rate  |
 
 ---
 
