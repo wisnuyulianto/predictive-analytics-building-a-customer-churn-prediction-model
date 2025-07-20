@@ -1,5 +1,5 @@
 # 📊 Predictive Analytics: Building a Customer Churn Prediction Model
-
+<div align="justify">
 An end to end machine learning project to proactively identify customers at risk of churning, using Python, Pandas, and a recall optimized Random Forest model.
 
 ## 📊 Interactive Dashboard Preview
@@ -95,6 +95,8 @@ Explore the full dashboard, segment risk levels, and customer insights:
 🔗 [**Customer Churn Intelligence Dashboard** on Tableau Public](https://public.tableau.com/views/CustomerChurnRiskIntelligenceDashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
+
+</div>
 
 ## 📁 Repository Contents
 
